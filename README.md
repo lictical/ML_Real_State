@@ -40,6 +40,16 @@ call the data.
        housing_tgz.close()
   fetch_housing_data()
 ```
+Lets proceed to turn it into a panads dataframe:
+```
+#This function returns a Pandas DataFrame object containing all the data
+  import pandas as pd
+  def load_housing_data(housing_path=HOUSING_PATH):
+   csv_path = os.path.join(housing_path, "housing.csv")
+   return pd.read_csv(csv_path)
+  housing = load_housing_data()
+  housing.head()
+```
 
 
 
