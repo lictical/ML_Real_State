@@ -63,6 +63,8 @@ and the ocean_proximity is a python object so it could hold any kind of python o
 ```
 ![image](https://github.com/lictical/ML_Real_State/assets/25531904/436f9157-413c-451a-a6ca-8739b0ef9e6c)
 
+Futhermore, create descriptive statistics of the dataframe.
+![image](https://github.com/lictical/ML_Real_State/assets/25531904/c044335f-98d1-410b-97d9-7c70104b8e93)
 
 
 
