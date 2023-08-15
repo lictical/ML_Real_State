@@ -54,6 +54,15 @@ The information from the dataframe is:
 
 ![image](https://github.com/lictical/ML_Real_State/assets/25531904/e2da11ac-430f-47c5-ab22-a226c9fe93a7)
 
+## Understanding the data
+The data shows that all data are already turned into numerical values, while the "total bedrooms" column has several missing values.
+and the ocean_proximity is a python object so it could hold any kind of python object. to better understand what holds this column print its unique values.
+```
+  # To better understand the ocean_proximity lets find its unique values
+  housing["ocean_proximity"].value_counts()
+```
+![image](https://github.com/lictical/ML_Real_State/assets/25531904/436f9157-413c-451a-a6ca-8739b0ef9e6c)
+
 
 
 
