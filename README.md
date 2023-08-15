@@ -40,7 +40,7 @@ call the data.
        housing_tgz.close()
   fetch_housing_data()
 ```
-Lets proceed to turn it into a panads dataframe:
+Lets proceed to turn it into a pandas dataframe:
 ```
 #This function returns a Pandas DataFrame object containing all the data
   import pandas as pd
@@ -50,6 +50,8 @@ Lets proceed to turn it into a panads dataframe:
   housing = load_housing_data()
   housing.head()
 ```
+The information from the datafrmae is:
+![image](https://github.com/lictical/ML_Real_State/assets/25531904/e2da11ac-430f-47c5-ab22-a226c9fe93a7)
 
 
 
