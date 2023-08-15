@@ -66,6 +66,16 @@ and the ocean_proximity is a python object so it could hold any kind of python o
 Futhermore, create descriptive statistics of the dataframe.
 ![image](https://github.com/lictical/ML_Real_State/assets/25531904/c044335f-98d1-410b-97d9-7c70104b8e93)
 
+Show histograms of the data 
+```
+# Plot histograms of the data, either do it individually or do the whole dataset
+%matplotlib inline # This is a jupyter special command only it plots matplotlib without additional commands
+import matplotlib.pyplot as plt
+housing.hist(bins=50, figsize=(20,15))
+plt.show()
+```
+![image](https://github.com/lictical/ML_Real_State/assets/25531904/1068c87e-db5c-4717-a238-0714e7d82485)
+
 
 
 
