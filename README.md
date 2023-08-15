@@ -51,6 +51,7 @@ Lets proceed to turn it into a pandas dataframe:
   housing.head()
 ```
 The information from the datafrmae is:
+
 ![image](https://github.com/lictical/ML_Real_State/assets/25531904/e2da11ac-430f-47c5-ab22-a226c9fe93a7)
 
 
