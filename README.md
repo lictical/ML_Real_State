@@ -6,7 +6,7 @@ Open the CMD console, navigate to your project directory, and create your virtua
 
 ```bash
   python -m venv venv
-\```
+```
 
 Once it's created, open the Jupyter Notebook.
 
