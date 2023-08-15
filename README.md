@@ -76,6 +76,12 @@ plt.show()
 ```
 ![image](https://github.com/lictical/ML_Real_State/assets/25531904/fba2cb07-3178-484d-9ced-3b26ca2a8aef)
 
+The descriptive data shows:
+* The median income has being parametrized with a cap of 15 dollars, for the higher median income and o.5 for the lower median income. each unit represents a thousand dollars.
+* The housing median age, and house median value where also capped, given that this model seeks to find the value of the house value this is a problem, as the model will not represent reality. a solution to this is to eliminate the rows that possess values higher than the cap.
+* the scales of each attribute is different is better to parametrize them to avoid bigger weight on certain variables due to a higher scale.
+* when histograms are skewed to one direction this can prove problematic for the algorithm to detect classess.
+
 
 
 
