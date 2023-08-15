@@ -2,9 +2,12 @@
 End-to-End Machine Learning Project
 
 ## Create a virtual environment
-```python
-def greet(name):
-    print(f"Hello, {name}!")
+```cmd
+python -m venv venv
+
+> Once its created open the jupyter notebook
+
+
 
 
 
