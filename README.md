@@ -82,6 +82,5 @@ The descriptive data shows:
 * the scales of each attribute is different is better to parametrize them to avoid bigger weight on certain variables due to a higher scale.
 * when histograms are skewed to one direction this can prove problematic for the algorithm to detect classess.
 
-
-
+## Lets create a Test Set
 
