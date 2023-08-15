@@ -74,7 +74,9 @@ import matplotlib.pyplot as plt
 housing.hist(bins=50, figsize=(20,15))
 plt.show()
 ```
-![image](https://github.com/lictical/ML_Real_State/assets/25531904/1068c87e-db5c-4717-a238-0714e7d82485)
+<p align="center">
+  <img src="https://github.com/lictical/ML_Real_State/raw/main/assets/25531904/1068c87e-db5c-4717-a238-0714e7d82485.png" alt="Image">
+</p>
 
 
 
