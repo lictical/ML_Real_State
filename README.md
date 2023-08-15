@@ -2,6 +2,6 @@
 End-to-End Machine Learning Project
 
 ## Create a virtual environment
-python -m venv venv
+  python -m venv venv
 
 
