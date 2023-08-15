@@ -2,6 +2,9 @@
 End-to-End Machine Learning Project
 
 ## Create a virtual environment
-``` python -m venv venv
+```python
+def greet(name):
+    print(f"Hello, {name}!")
+
 
 
