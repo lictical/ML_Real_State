@@ -6,16 +6,16 @@ Open the CMD console, navigate to your project directory, and create your virtua
 
 ```bash
   python -m venv venv
-  pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
 ```
 Go to the project folder. enter venv, script, then activate and install libraries.
 ```bash
   activate
   pip install -U jupyter matplotlib numpy pandas scipy scikit-learn
 ```
-
-Once it's created, open the Jupyter Notebook.
-
+Once it's activated and the libraries are installed, open the Jupyter Notebook.
+```bash
+  jupyter notebook
+```
 
 
 
