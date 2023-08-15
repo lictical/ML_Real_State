@@ -2,11 +2,14 @@
 End-to-End Machine Learning Project
 
 ## Create a virtual environment
-Open the CMD console find your project directory and create your virtual environment.
+Open the CMD console, navigate to your project directory, and create your virtual environment.
 
-  ```python -m venv venv
+\```bash
+python -m venv venv
+\```
 
-Once its created open the jupyter notebook
+Once it's created, open the Jupyter Notebook.
+
 
 
 
